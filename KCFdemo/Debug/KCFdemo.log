@@ -1,4 +1,4 @@
-﻿生成启动时间为 2017/4/20 15:09:38。
+﻿生成启动时间为 2017/4/21 10:01:36。
      1>项目“D:\vs实验\KCFdemo\KCFdemo\KCFdemo.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt runtracker.cpp
@@ -13,4 +13,4 @@
 
 生成成功。
 
-已用时间 00:00:01.37
+已用时间 00:00:02.49
